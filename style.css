@@ -50,7 +50,7 @@ header {
 }
 
 header .logo {
-  height: 50px;
+  height: 70px;
 }
 
 header nav ul {
@@ -79,7 +79,7 @@ header nav ul li a {
 
 #hero h1 {
   font-family: 'Montserrat', sans-serif;
-  font-size: 2.5rem;
+  font-size: 2.2rem;
   color: var(--color-primary);
   margin-bottom: 1rem;
 }
@@ -259,3 +259,4 @@ footer {
     font-size: 1.7rem;
   }
 }
+
